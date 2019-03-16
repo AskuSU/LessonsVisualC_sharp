@@ -16,5 +16,32 @@ namespace Login
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text == "admin" && textBox2.Text == "admin")
+            {
+                Form2 s = new Form2();
+                s.Show();
+
+                this.Hide();
+            }
+            else
+            {
+                textBox1.Text = "";
+                textBox2.Text = "";
+
+                MessageBox.Show("Не правильный логин или пароль!");
+            }
+
+            
+
+
+        }
     }
 }
