@@ -1,0 +1,10 @@
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Сalculator\bin\Debug\Сalculator.exe.config
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Сalculator\bin\Debug\Сalculator.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Сalculator\bin\Debug\Сalculator.pdb
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Сalculator\obj\Debug\Сalculator.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Сalculator\obj\Debug\Сalculator.Form1.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Сalculator\obj\Debug\Сalculator.Properties.Resources.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Сalculator\obj\Debug\Сalculator.csproj.GenerateResource.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Сalculator\obj\Debug\Сalculator.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Сalculator\obj\Debug\Сalculator.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Сalculator\obj\Debug\Сalculator.pdb
