@@ -1,0 +1,9 @@
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WindowsForms(TextBox+Label)\bin\Debug\WindowsForms(TextBox+Label).exe.config
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WindowsForms(TextBox+Label)\bin\Debug\WindowsForms(TextBox+Label).exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WindowsForms(TextBox+Label)\bin\Debug\WindowsForms(TextBox+Label).pdb
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WindowsForms(TextBox+Label)\obj\Debug\WindowsForms_TextBox_Label_.Form1.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WindowsForms(TextBox+Label)\obj\Debug\WindowsForms_TextBox_Label_.Properties.Resources.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WindowsForms(TextBox+Label)\obj\Debug\WindowsForms(TextBox+Label).csproj.GenerateResource.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WindowsForms(TextBox+Label)\obj\Debug\WindowsForms(TextBox+Label).csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WindowsForms(TextBox+Label)\obj\Debug\WindowsForms(TextBox+Label).exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WindowsForms(TextBox+Label)\obj\Debug\WindowsForms(TextBox+Label).pdb
