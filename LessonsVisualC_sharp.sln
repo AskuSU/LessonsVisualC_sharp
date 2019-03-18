@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сalculator", "Сalculator\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBox", "ListBox\ListBox.csproj", "{2C91821A-044C-48EC-B04C-C6BABE87BCF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PKM", "PKM\PKM.csproj", "{34A7F100-4014-4834-BF3F-530931363301}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2C91821A-044C-48EC-B04C-C6BABE87BCF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C91821A-044C-48EC-B04C-C6BABE87BCF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C91821A-044C-48EC-B04C-C6BABE87BCF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34A7F100-4014-4834-BF3F-530931363301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A7F100-4014-4834-BF3F-530931363301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A7F100-4014-4834-BF3F-530931363301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A7F100-4014-4834-BF3F-530931363301}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

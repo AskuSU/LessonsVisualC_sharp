@@ -1,0 +1,10 @@
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\PKM\bin\Debug\PKM.exe.config
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\PKM\bin\Debug\PKM.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\PKM\bin\Debug\PKM.pdb
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\PKM\obj\Debug\PKM.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\PKM\obj\Debug\PKM.Form1.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\PKM\obj\Debug\PKM.Properties.Resources.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\PKM\obj\Debug\PKM.csproj.GenerateResource.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\PKM\obj\Debug\PKM.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\PKM\obj\Debug\PKM.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\PKM\obj\Debug\PKM.pdb
