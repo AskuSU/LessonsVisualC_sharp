@@ -1,0 +1,10 @@
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\ListBox\bin\Debug\ListBox.exe.config
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\ListBox\bin\Debug\ListBox.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\ListBox\bin\Debug\ListBox.pdb
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\ListBox\obj\Debug\ListBox.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\ListBox\obj\Debug\ListBox.Form1.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\ListBox\obj\Debug\ListBox.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\ListBox\obj\Debug\ListBox.pdb
