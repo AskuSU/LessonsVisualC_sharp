@@ -272,7 +272,14 @@ namespace Сalculator
 
         private void button13_Click(object sender, EventArgs e)
         {
-            textBox1.Text = textBox1.Text.Substring(0, textBox1.Text.Length - 1);
+            try
+            {
+                textBox1.Text = textBox1.Text.Substring(0, textBox1.Text.Length - 1);
+            }
+            catch
+            {
+
+            }
         }
 
         private void выходToolStripMenuItem_Click(object sender, EventArgs e)
@@ -280,6 +287,9 @@ namespace Сalculator
             Application.Exit();
         }
 
-        
+        private void оПрограммеToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Тестовый калькулятор 2019\nАвтор: AskuSU", "О программе");
+        }
     }
 }
