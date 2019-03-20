@@ -1,0 +1,7 @@
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\TestFunction\bin\Debug\TestFunction.exe.config
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\TestFunction\bin\Debug\TestFunction.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\TestFunction\bin\Debug\TestFunction.pdb
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\TestFunction\obj\Debug\TestFunction.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\TestFunction\obj\Debug\TestFunction.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\TestFunction\obj\Debug\TestFunction.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\TestFunction\obj\Debug\TestFunction.pdb

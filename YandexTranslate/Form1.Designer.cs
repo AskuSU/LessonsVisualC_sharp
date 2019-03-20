@@ -111,6 +111,7 @@
             this.button1.Size = new System.Drawing.Size(49, 49);
             this.button1.TabIndex = 3;
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -124,6 +125,7 @@
             // 
             // button3
             // 
+            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button3.Location = new System.Drawing.Point(12, 43);
             this.button3.Name = "button3";
@@ -131,9 +133,11 @@
             this.button3.TabIndex = 5;
             this.button3.Text = "Русский";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
+            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button4.Location = new System.Drawing.Point(137, 43);
             this.button4.Name = "button4";
@@ -141,9 +145,11 @@
             this.button4.TabIndex = 6;
             this.button4.Text = "Английский";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button5
             // 
+            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button5.Location = new System.Drawing.Point(543, 43);
             this.button5.Name = "button5";
@@ -151,9 +157,11 @@
             this.button5.TabIndex = 7;
             this.button5.Text = "Немецкий";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button6
             // 
+            this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button6.Location = new System.Drawing.Point(668, 43);
             this.button6.Name = "button6";
@@ -161,108 +169,47 @@
             this.button6.TabIndex = 8;
             this.button6.Text = "Французкий";
             this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // comboBox1
             // 
             this.comboBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
-            "Азербайджанский",
-            "Азербайджанский",
-            "Албанский",
-            "Амхарский",
-            "Английский",
-            "Арабский",
-            "Армянский",
-            "Африкаанс",
-            "Баскский",
-            "Башкирский",
-            "Белорусский",
-            "Бенгальский",
-            "Бирманский",
-            "Болгарский",
-            "Боснийский",
-            "Валлийский",
-            "Венгерский",
-            "Вьетнамский",
-            "Гаитянский",
-            "Галисийский",
-            "Горномарийский",
-            "Греческий",
-            "Грузинский",
-            "Гуджарати",
-            "Датский",
-            "Иврит",
-            "Идиш",
-            "Индонезийский",
-            "Ирландский",
-            "Исландский",
-            "Испанский",
-            "Итальянский",
-            "Казахский",
-            "Каннада",
-            "Каталанский",
-            "Киргизский",
-            "Китайский",
-            "Корейский",
-            "Коса β",
-            "Кхмерский",
-            "Лаосский β",
-            "Латынь",
-            "Латышский",
-            "Литовский",
-            "Люксембургский",
-            "Македонский",
-            "Малагасийский",
-            "Малайский",
-            "Малаялам",
-            "Мальтийский",
-            "Маори",
-            "Маратхи",
-            "Марийский",
-            "Монгольский",
-            "Немецкий",
-            "Непальский",
-            "Нидерландский",
-            "Норвежский",
-            "Панджаби",
-            "Папьяменто",
-            "Персидский",
-            "Польский",
-            "Португальский",
-            "Румынский",
-            "Русский",
-            "Себуанский",
-            "Сербский",
-            "Сингальский",
-            "Словацкий",
-            "Словенский",
-            "Суахили",
-            "Сунданский",
-            "Тагальский",
-            "Таджикский",
-            "Тайский",
-            "Тамильский",
-            "Татарский",
-            "Телугу",
-            "Турецкий",
-            "Удмуртский",
-            "Узбекский",
-            "Украинский",
-            "Урду",
-            "Финский",
-            "Французский",
-            "Хинди",
-            "Хорватский",
-            "Чешский",
-            "Шведский",
-            "Шотландский (гэльский)",
-            "Эльфийский (синдарин)",
-            "Эмодзи",
-            "Эсперанто",
-            "Эстонский",
-            "Яванский",
-            "Японский"});
+                                                            "Азербайджанский",
+                                                            "Албанский",
+                                                            "Английский",
+                                                            "Армянский",
+                                                            "Белорусский",
+                                                            "Болгарский",
+                                                            "Венгерский",
+                                                            "Голландский",
+                                                            "Греческий",
+                                                            "Датский",
+                                                            "Испанский",
+                                                            "Итальянский",
+                                                            "Каталанский",
+                                                            "Латышский",
+                                                            "Литовский",
+                                                            "Македонский",
+                                                            "Немецкий",
+                                                            "Норвежский",
+                                                            "Польский",
+                                                            "Португальский",
+                                                            "Румынский",
+                                                            "Русский",
+                                                            "Сербский",
+                                                            "Словацкий",
+                                                            "Словенский",
+                                                            "Турецкий",
+                                                            "Украинский",
+                                                            "Финский",
+                                                            "Французский",
+                                                            "Хорватский",
+                                                            "Чешский",
+                                                            "Шведский",
+                                                            "Эстонский"
+                                                            });
             this.comboBox1.Location = new System.Drawing.Point(262, 48);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(220, 24);
@@ -273,102 +220,40 @@
             this.comboBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.comboBox2.FormattingEnabled = true;
             this.comboBox2.Items.AddRange(new object[] {
-            "Азербайджанский",
-            "Азербайджанский",
-            "Албанский",
-            "Амхарский",
-            "Английский",
-            "Арабский",
-            "Армянский",
-            "Африкаанс",
-            "Баскский",
-            "Башкирский",
-            "Белорусский",
-            "Бенгальский",
-            "Бирманский",
-            "Болгарский",
-            "Боснийский",
-            "Валлийский",
-            "Венгерский",
-            "Вьетнамский",
-            "Гаитянский",
-            "Галисийский",
-            "Горномарийский",
-            "Греческий",
-            "Грузинский",
-            "Гуджарати",
-            "Датский",
-            "Иврит",
-            "Идиш",
-            "Индонезийский",
-            "Ирландский",
-            "Исландский",
-            "Испанский",
-            "Итальянский",
-            "Казахский",
-            "Каннада",
-            "Каталанский",
-            "Киргизский",
-            "Китайский",
-            "Корейский",
-            "Коса β",
-            "Кхмерский",
-            "Лаосский β",
-            "Латынь",
-            "Латышский",
-            "Литовский",
-            "Люксембургский",
-            "Македонский",
-            "Малагасийский",
-            "Малайский",
-            "Малаялам",
-            "Мальтийский",
-            "Маори",
-            "Маратхи",
-            "Марийский",
-            "Монгольский",
-            "Немецкий",
-            "Непальский",
-            "Нидерландский",
-            "Норвежский",
-            "Панджаби",
-            "Папьяменто",
-            "Персидский",
-            "Польский",
-            "Португальский",
-            "Румынский",
-            "Русский",
-            "Себуанский",
-            "Сербский",
-            "Сингальский",
-            "Словацкий",
-            "Словенский",
-            "Суахили",
-            "Сунданский",
-            "Тагальский",
-            "Таджикский",
-            "Тайский",
-            "Тамильский",
-            "Татарский",
-            "Телугу",
-            "Турецкий",
-            "Удмуртский",
-            "Узбекский",
-            "Украинский",
-            "Урду",
-            "Финский",
-            "Французский",
-            "Хинди",
-            "Хорватский",
-            "Чешский",
-            "Шведский",
-            "Шотландский (гэльский)",
-            "Эльфийский (синдарин)",
-            "Эмодзи",
-            "Эсперанто",
-            "Эстонский",
-            "Яванский",
-            "Японский"});
+                                                            "Азербайджанский",
+                                                            "Албанский",
+                                                            "Английский",
+                                                            "Армянский",
+                                                            "Белорусский",
+                                                            "Болгарский",
+                                                            "Венгерский",
+                                                            "Голландский",
+                                                            "Греческий",
+                                                            "Датский",
+                                                            "Испанский",
+                                                            "Итальянский",
+                                                            "Каталанский",
+                                                            "Латышский",
+                                                            "Литовский",
+                                                            "Македонский",
+                                                            "Немецкий",
+                                                            "Норвежский",
+                                                            "Польский",
+                                                            "Португальский",
+                                                            "Румынский",
+                                                            "Русский",
+                                                            "Сербский",
+                                                            "Словацкий",
+                                                            "Словенский",
+                                                            "Турецкий",
+                                                            "Украинский",
+                                                            "Финский",
+                                                            "Французский",
+                                                            "Хорватский",
+                                                            "Чешский",
+                                                            "Шведский",
+                                                            "Эстонский"
+                                                            });
             this.comboBox2.Location = new System.Drawing.Point(793, 48);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(220, 24);

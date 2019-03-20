@@ -12,3 +12,17 @@ C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\YandexTranslate\obj\
 C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\YandexTranslate\obj\Debug\YandexTranslate.csproj.CopyComplete
 C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\YandexTranslate\obj\Debug\YandexTranslate.exe
 C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\YandexTranslate\obj\Debug\YandexTranslate.pdb
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\YandexTranslate\bin\Debug\YandexTranslate.exe.config
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\YandexTranslate\bin\Debug\YandexTranslate.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\YandexTranslate\bin\Debug\YandexTranslate.pdb
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\YandexTranslate\bin\Debug\RestSharp.dll
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\YandexTranslate\bin\Debug\YandexLinguistics.NET.dll
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\YandexTranslate\bin\Debug\RestSharp.xml
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\YandexTranslate\obj\Debug\YandexTranslate.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\YandexTranslate\obj\Debug\YandexTranslate.Form1.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\YandexTranslate\obj\Debug\YandexTranslate.Properties.Resources.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\YandexTranslate\obj\Debug\YandexTranslate.csproj.GenerateResource.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\YandexTranslate\obj\Debug\YandexTranslate.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\YandexTranslate\obj\Debug\YandexTranslate.csproj.CopyComplete
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\YandexTranslate\obj\Debug\YandexTranslate.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\YandexTranslate\obj\Debug\YandexTranslate.pdb
