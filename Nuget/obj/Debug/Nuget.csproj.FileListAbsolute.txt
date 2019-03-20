@@ -11,3 +11,16 @@ C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Nuget\obj\Debug\Nuget.csproj.Co
 C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Nuget\obj\Debug\Nuget.csproj.CopyComplete
 C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Nuget\obj\Debug\Nuget.exe
 C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Nuget\obj\Debug\Nuget.pdb
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\Nuget\bin\Debug\Nuget.exe.config
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\Nuget\bin\Debug\Nuget.exe
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\Nuget\bin\Debug\Nuget.pdb
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\Nuget\bin\Debug\MetroFramework.dll
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\Nuget\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\Nuget\obj\Debug\Nuget.csprojAssemblyReference.cache
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\Nuget\obj\Debug\Nuget.Form1.resources
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\Nuget\obj\Debug\Nuget.Properties.Resources.resources
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\Nuget\obj\Debug\Nuget.csproj.GenerateResource.cache
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\Nuget\obj\Debug\Nuget.csproj.CoreCompileInputs.cache
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\Nuget\obj\Debug\Nuget.csproj.CopyComplete
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\Nuget\obj\Debug\Nuget.exe
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\Nuget\obj\Debug\Nuget.pdb

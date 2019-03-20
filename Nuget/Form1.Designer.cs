@@ -47,9 +47,18 @@
             this.metroTabPage3 = new MetroFramework.Controls.MetroTabPage();
             this.metroTextBox1 = new MetroFramework.Controls.MetroTextBox();
             this.metroToggle1 = new MetroFramework.Controls.MetroToggle();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.metroRadioButton4 = new MetroFramework.Controls.MetroRadioButton();
+            this.metroRadioButton5 = new MetroFramework.Controls.MetroRadioButton();
+            this.metroRadioButton6 = new MetroFramework.Controls.MetroRadioButton();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.metroRadioButton7 = new MetroFramework.Controls.MetroRadioButton();
+            this.metroRadioButton8 = new MetroFramework.Controls.MetroRadioButton();
             ((System.ComponentModel.ISupportInitialize)(this.metroStyleManager1)).BeginInit();
             this.metroTabControl1.SuspendLayout();
             this.metroTabPage1.SuspendLayout();
+            this.groupBox1.SuspendLayout();
+            this.groupBox2.SuspendLayout();
             this.SuspendLayout();
             // 
             // metroStyleManager1
@@ -106,7 +115,7 @@
             // metroRadioButton1
             // 
             this.metroRadioButton1.AutoSize = true;
-            this.metroRadioButton1.Location = new System.Drawing.Point(23, 347);
+            this.metroRadioButton1.Location = new System.Drawing.Point(6, 26);
             this.metroRadioButton1.Name = "metroRadioButton1";
             this.metroRadioButton1.Size = new System.Drawing.Size(127, 15);
             this.metroRadioButton1.TabIndex = 5;
@@ -117,7 +126,7 @@
             // metroRadioButton2
             // 
             this.metroRadioButton2.AutoSize = true;
-            this.metroRadioButton2.Location = new System.Drawing.Point(23, 368);
+            this.metroRadioButton2.Location = new System.Drawing.Point(6, 47);
             this.metroRadioButton2.Name = "metroRadioButton2";
             this.metroRadioButton2.Size = new System.Drawing.Size(127, 15);
             this.metroRadioButton2.TabIndex = 6;
@@ -128,7 +137,7 @@
             // metroRadioButton3
             // 
             this.metroRadioButton3.AutoSize = true;
-            this.metroRadioButton3.Location = new System.Drawing.Point(23, 389);
+            this.metroRadioButton3.Location = new System.Drawing.Point(6, 68);
             this.metroRadioButton3.Name = "metroRadioButton3";
             this.metroRadioButton3.Size = new System.Drawing.Size(127, 15);
             this.metroRadioButton3.TabIndex = 7;
@@ -224,17 +233,97 @@
             this.metroToggle1.UseVisualStyleBackColor = true;
             this.metroToggle1.CheckedChanged += new System.EventHandler(this.metroToggle1_CheckedChanged);
             // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.metroRadioButton2);
+            this.groupBox1.Controls.Add(this.metroRadioButton1);
+            this.groupBox1.Controls.Add(this.metroRadioButton3);
+            this.groupBox1.Location = new System.Drawing.Point(23, 324);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(138, 94);
+            this.groupBox1.TabIndex = 11;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "groupBox1";
+            // 
+            // metroRadioButton4
+            // 
+            this.metroRadioButton4.AutoSize = true;
+            this.metroRadioButton4.Location = new System.Drawing.Point(196, 362);
+            this.metroRadioButton4.Name = "metroRadioButton4";
+            this.metroRadioButton4.Size = new System.Drawing.Size(127, 15);
+            this.metroRadioButton4.TabIndex = 8;
+            this.metroRadioButton4.TabStop = true;
+            this.metroRadioButton4.Text = "metroRadioButton4";
+            this.metroRadioButton4.UseVisualStyleBackColor = true;
+            // 
+            // metroRadioButton5
+            // 
+            this.metroRadioButton5.AutoSize = true;
+            this.metroRadioButton5.Location = new System.Drawing.Point(196, 383);
+            this.metroRadioButton5.Name = "metroRadioButton5";
+            this.metroRadioButton5.Size = new System.Drawing.Size(127, 15);
+            this.metroRadioButton5.TabIndex = 12;
+            this.metroRadioButton5.TabStop = true;
+            this.metroRadioButton5.Text = "metroRadioButton5";
+            this.metroRadioButton5.UseVisualStyleBackColor = true;
+            // 
+            // metroRadioButton6
+            // 
+            this.metroRadioButton6.AutoSize = true;
+            this.metroRadioButton6.Location = new System.Drawing.Point(196, 404);
+            this.metroRadioButton6.Name = "metroRadioButton6";
+            this.metroRadioButton6.Size = new System.Drawing.Size(127, 15);
+            this.metroRadioButton6.TabIndex = 13;
+            this.metroRadioButton6.TabStop = true;
+            this.metroRadioButton6.Text = "metroRadioButton6";
+            this.metroRadioButton6.UseVisualStyleBackColor = true;
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.Controls.Add(this.metroRadioButton7);
+            this.groupBox2.Controls.Add(this.metroRadioButton8);
+            this.groupBox2.Location = new System.Drawing.Point(425, 365);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(199, 76);
+            this.groupBox2.TabIndex = 14;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "groupBox2";
+            // 
+            // metroRadioButton7
+            // 
+            this.metroRadioButton7.AutoSize = true;
+            this.metroRadioButton7.Location = new System.Drawing.Point(36, 41);
+            this.metroRadioButton7.Name = "metroRadioButton7";
+            this.metroRadioButton7.Size = new System.Drawing.Size(127, 15);
+            this.metroRadioButton7.TabIndex = 14;
+            this.metroRadioButton7.TabStop = true;
+            this.metroRadioButton7.Text = "metroRadioButton7";
+            this.metroRadioButton7.UseVisualStyleBackColor = true;
+            // 
+            // metroRadioButton8
+            // 
+            this.metroRadioButton8.AutoSize = true;
+            this.metroRadioButton8.Location = new System.Drawing.Point(36, 20);
+            this.metroRadioButton8.Name = "metroRadioButton8";
+            this.metroRadioButton8.Size = new System.Drawing.Size(127, 15);
+            this.metroRadioButton8.TabIndex = 13;
+            this.metroRadioButton8.TabStop = true;
+            this.metroRadioButton8.Text = "metroRadioButton8";
+            this.metroRadioButton8.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(722, 505);
+            this.Controls.Add(this.groupBox2);
+            this.Controls.Add(this.metroRadioButton6);
+            this.Controls.Add(this.metroRadioButton5);
+            this.Controls.Add(this.metroRadioButton4);
+            this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.metroToggle1);
             this.Controls.Add(this.metroTextBox1);
             this.Controls.Add(this.metroTabControl1);
-            this.Controls.Add(this.metroRadioButton3);
-            this.Controls.Add(this.metroRadioButton2);
-            this.Controls.Add(this.metroRadioButton1);
             this.Controls.Add(this.metroProgressBar1);
             this.Controls.Add(this.metroLabel1);
             this.Controls.Add(this.metroComboBox1);
@@ -246,6 +335,10 @@
             this.metroTabControl1.ResumeLayout(false);
             this.metroTabPage1.ResumeLayout(false);
             this.metroTabPage1.PerformLayout();
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
+            this.groupBox2.ResumeLayout(false);
+            this.groupBox2.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -271,6 +364,13 @@
         private MetroFramework.Controls.MetroTabPage metroTabPage3;
         private MetroFramework.Controls.MetroTextBox metroTextBox1;
         private MetroFramework.Controls.MetroToggle metroToggle1;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private MetroFramework.Controls.MetroRadioButton metroRadioButton4;
+        private MetroFramework.Controls.MetroRadioButton metroRadioButton5;
+        private MetroFramework.Controls.MetroRadioButton metroRadioButton6;
+        private System.Windows.Forms.GroupBox groupBox2;
+        private MetroFramework.Controls.MetroRadioButton metroRadioButton7;
+        private MetroFramework.Controls.MetroRadioButton metroRadioButton8;
     }
 }
 
