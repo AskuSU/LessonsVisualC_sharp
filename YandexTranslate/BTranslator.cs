@@ -65,13 +65,18 @@ namespace YandexTranslate
                     lp.InputLang = (Lang)i;
                 }
 
-                if (inputLang.ToLower() == LangIsMas[i])
+                if (outputLang.ToLower() == LangIsMas[i])
                 {
                     lp.OutputLang = (Lang)i;
                 }
             }
 
             return lp;
+        }
+
+        public string Translator(string wordToTranslate, LangPair langPair)
+        {
+            return tr.Translate(wordToTranslate, langPair).Text;
         }
 
     }
