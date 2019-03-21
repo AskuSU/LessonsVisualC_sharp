@@ -1,0 +1,11 @@
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\HackApp\bin\x86\Debug\HackApp.exe.config
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\HackApp\bin\x86\Debug\HackApp.exe
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\HackApp\bin\x86\Debug\HackApp.pdb
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\HackApp\obj\x86\Debug\HackApp.csprojAssemblyReference.cache
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\HackApp\obj\x86\Debug\HackApp.Form1.resources
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\HackApp\obj\x86\Debug\HackApp.Main.resources
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\HackApp\obj\x86\Debug\HackApp.Properties.Resources.resources
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\HackApp\obj\x86\Debug\HackApp.csproj.GenerateResource.cache
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\HackApp\obj\x86\Debug\HackApp.csproj.CoreCompileInputs.cache
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\HackApp\obj\x86\Debug\HackApp.exe
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\HackApp\obj\x86\Debug\HackApp.pdb
