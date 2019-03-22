@@ -1,0 +1,10 @@
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\SecondsConting\bin\Debug\SecondsConting.exe.config
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\SecondsConting\bin\Debug\SecondsConting.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\SecondsConting\bin\Debug\SecondsConting.pdb
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\SecondsConting\obj\Debug\SecondsConting.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\SecondsConting\obj\Debug\SecondsConting.Form1.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\SecondsConting\obj\Debug\SecondsConting.Properties.Resources.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\SecondsConting\obj\Debug\SecondsConting.csproj.GenerateResource.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\SecondsConting\obj\Debug\SecondsConting.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\SecondsConting\obj\Debug\SecondsConting.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\SecondsConting\obj\Debug\SecondsConting.pdb

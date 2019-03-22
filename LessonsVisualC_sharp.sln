@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFunction", "TestFunctio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackApp", "HackApp\HackApp.csproj", "{F3721D0C-7D8E-46C0-AB95-077916773163}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondsConting", "SecondsConting\SecondsConting.csproj", "{1A944517-7F03-441D-A3BC-888CEC5BA1A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,14 @@ Global
 		{F3721D0C-7D8E-46C0-AB95-077916773163}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F3721D0C-7D8E-46C0-AB95-077916773163}.Release|x86.ActiveCfg = Release|x86
 		{F3721D0C-7D8E-46C0-AB95-077916773163}.Release|x86.Build.0 = Release|x86
+		{1A944517-7F03-441D-A3BC-888CEC5BA1A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A944517-7F03-441D-A3BC-888CEC5BA1A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A944517-7F03-441D-A3BC-888CEC5BA1A5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1A944517-7F03-441D-A3BC-888CEC5BA1A5}.Debug|x86.Build.0 = Debug|Any CPU
+		{1A944517-7F03-441D-A3BC-888CEC5BA1A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A944517-7F03-441D-A3BC-888CEC5BA1A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A944517-7F03-441D-A3BC-888CEC5BA1A5}.Release|x86.ActiveCfg = Release|Any CPU
+		{1A944517-7F03-441D-A3BC-888CEC5BA1A5}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
