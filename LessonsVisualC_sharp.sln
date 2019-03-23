@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFormsInWhile", "WFormsInWh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoHello", "AutoHello\AutoHello.csproj", "{E3023473-F8AC-4B49-8879-1075535E5252}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherApp", "WeatherApp\WeatherApp.csproj", "{82D0E8EB-5CD7-4B24-A607-DF32F1E15DFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,14 @@ Global
 		{E3023473-F8AC-4B49-8879-1075535E5252}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E3023473-F8AC-4B49-8879-1075535E5252}.Release|x86.ActiveCfg = Release|Any CPU
 		{E3023473-F8AC-4B49-8879-1075535E5252}.Release|x86.Build.0 = Release|Any CPU
+		{82D0E8EB-5CD7-4B24-A607-DF32F1E15DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D0E8EB-5CD7-4B24-A607-DF32F1E15DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D0E8EB-5CD7-4B24-A607-DF32F1E15DFC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{82D0E8EB-5CD7-4B24-A607-DF32F1E15DFC}.Debug|x86.Build.0 = Debug|Any CPU
+		{82D0E8EB-5CD7-4B24-A607-DF32F1E15DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D0E8EB-5CD7-4B24-A607-DF32F1E15DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82D0E8EB-5CD7-4B24-A607-DF32F1E15DFC}.Release|x86.ActiveCfg = Release|Any CPU
+		{82D0E8EB-5CD7-4B24-A607-DF32F1E15DFC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

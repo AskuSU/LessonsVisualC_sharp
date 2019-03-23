@@ -1,0 +1,14 @@
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WeatherApp\bin\Debug\WeatherApp.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WeatherApp\obj\Debug\WeatherApp.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WeatherApp\obj\Debug\WeatherApp.Form1.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WeatherApp\obj\Debug\WeatherApp.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WeatherApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WeatherApp\obj\Debug\WeatherApp.csproj.CopyComplete
