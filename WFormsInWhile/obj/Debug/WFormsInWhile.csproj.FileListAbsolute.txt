@@ -1,0 +1,11 @@
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WFormsInWhile\bin\Debug\WFormsInWhile.exe.config
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WFormsInWhile\bin\Debug\WFormsInWhile.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WFormsInWhile\bin\Debug\WFormsInWhile.pdb
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WFormsInWhile\obj\Debug\WFormsInWhile.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WFormsInWhile\obj\Debug\WFormsInWhile.Form1.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WFormsInWhile\obj\Debug\WFormsInWhile.MessageForm.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WFormsInWhile\obj\Debug\WFormsInWhile.Properties.Resources.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WFormsInWhile\obj\Debug\WFormsInWhile.csproj.GenerateResource.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WFormsInWhile\obj\Debug\WFormsInWhile.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WFormsInWhile\obj\Debug\WFormsInWhile.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WFormsInWhile\obj\Debug\WFormsInWhile.pdb
