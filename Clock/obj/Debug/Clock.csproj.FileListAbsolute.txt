@@ -1,0 +1,10 @@
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Clock\bin\Debug\Clock.exe.config
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Clock\bin\Debug\Clock.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Clock\bin\Debug\Clock.pdb
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Clock\obj\Debug\Clock.Form1.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Clock\obj\Debug\Clock.Properties.Resources.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Clock\obj\Debug\Clock.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Clock\obj\Debug\Clock.pdb
