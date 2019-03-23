@@ -1,0 +1,10 @@
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\AutoHello\bin\Debug\AutoHello.exe.config
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\AutoHello\bin\Debug\AutoHello.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\AutoHello\bin\Debug\AutoHello.pdb
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\AutoHello\obj\Debug\AutoHello.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\AutoHello\obj\Debug\AutoHello.Form1.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\AutoHello\obj\Debug\AutoHello.Properties.Resources.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\AutoHello\obj\Debug\AutoHello.csproj.GenerateResource.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\AutoHello\obj\Debug\AutoHello.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\AutoHello\obj\Debug\AutoHello.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\AutoHello\obj\Debug\AutoHello.pdb
