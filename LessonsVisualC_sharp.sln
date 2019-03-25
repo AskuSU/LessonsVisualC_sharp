@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoHello", "AutoHello\Auto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherApp", "WeatherApp\WeatherApp.csproj", "{82D0E8EB-5CD7-4B24-A607-DF32F1E15DFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Placeholder", "Placeholder\Placeholder.csproj", "{A9D294B9-A0E1-4F41-9F45-80398F347149}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Placeholder2", "Placeholder2\Placeholder2.csproj", "{BE324419-0106-41E6-A495-2E18FB5EAF69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -151,6 +155,22 @@ Global
 		{82D0E8EB-5CD7-4B24-A607-DF32F1E15DFC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{82D0E8EB-5CD7-4B24-A607-DF32F1E15DFC}.Release|x86.ActiveCfg = Release|Any CPU
 		{82D0E8EB-5CD7-4B24-A607-DF32F1E15DFC}.Release|x86.Build.0 = Release|Any CPU
+		{A9D294B9-A0E1-4F41-9F45-80398F347149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D294B9-A0E1-4F41-9F45-80398F347149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D294B9-A0E1-4F41-9F45-80398F347149}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A9D294B9-A0E1-4F41-9F45-80398F347149}.Debug|x86.Build.0 = Debug|Any CPU
+		{A9D294B9-A0E1-4F41-9F45-80398F347149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D294B9-A0E1-4F41-9F45-80398F347149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9D294B9-A0E1-4F41-9F45-80398F347149}.Release|x86.ActiveCfg = Release|Any CPU
+		{A9D294B9-A0E1-4F41-9F45-80398F347149}.Release|x86.Build.0 = Release|Any CPU
+		{BE324419-0106-41E6-A495-2E18FB5EAF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE324419-0106-41E6-A495-2E18FB5EAF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE324419-0106-41E6-A495-2E18FB5EAF69}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BE324419-0106-41E6-A495-2E18FB5EAF69}.Debug|x86.Build.0 = Debug|Any CPU
+		{BE324419-0106-41E6-A495-2E18FB5EAF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE324419-0106-41E6-A495-2E18FB5EAF69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE324419-0106-41E6-A495-2E18FB5EAF69}.Release|x86.ActiveCfg = Release|Any CPU
+		{BE324419-0106-41E6-A495-2E18FB5EAF69}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

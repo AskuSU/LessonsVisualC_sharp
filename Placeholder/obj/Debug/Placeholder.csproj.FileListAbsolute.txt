@@ -1,0 +1,10 @@
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Placeholder\bin\Debug\Placeholder.exe.config
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Placeholder\bin\Debug\Placeholder.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Placeholder\bin\Debug\Placeholder.pdb
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Placeholder\obj\Debug\Placeholder.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Placeholder\obj\Debug\Placeholder.Form1.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Placeholder\obj\Debug\Placeholder.Properties.Resources.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Placeholder\obj\Debug\Placeholder.csproj.GenerateResource.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Placeholder\obj\Debug\Placeholder.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Placeholder\obj\Debug\Placeholder.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\Placeholder\obj\Debug\Placeholder.pdb
