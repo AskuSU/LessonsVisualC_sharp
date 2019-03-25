@@ -1,0 +1,10 @@
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\MouseMoving\obj\Debug\MouseMoving.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\MouseMoving\obj\Debug\MouseMoving.Form1.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\MouseMoving\obj\Debug\MouseMoving.Properties.Resources.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\MouseMoving\obj\Debug\MouseMoving.csproj.GenerateResource.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\MouseMoving\obj\Debug\MouseMoving.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\MouseMoving\bin\Debug\MouseMoving.exe.config
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\MouseMoving\bin\Debug\MouseMoving.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\MouseMoving\bin\Debug\MouseMoving.pdb
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\MouseMoving\obj\Debug\MouseMoving.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\MouseMoving\obj\Debug\MouseMoving.pdb
