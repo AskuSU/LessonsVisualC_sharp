@@ -1,0 +1,9 @@
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\DecreaseOpacityWhileDragging\bin\Debug\DecreaseOpacityWhileDragging.exe.config
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\DecreaseOpacityWhileDragging\bin\Debug\DecreaseOpacityWhileDragging.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\DecreaseOpacityWhileDragging\bin\Debug\DecreaseOpacityWhileDragging.pdb
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\DecreaseOpacityWhileDragging\obj\Debug\DecreaseOpacityWhileDragging.Form1.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\DecreaseOpacityWhileDragging\obj\Debug\DecreaseOpacityWhileDragging.Properties.Resources.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\DecreaseOpacityWhileDragging\obj\Debug\DecreaseOpacityWhileDragging.csproj.GenerateResource.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\DecreaseOpacityWhileDragging\obj\Debug\DecreaseOpacityWhileDragging.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\DecreaseOpacityWhileDragging\obj\Debug\DecreaseOpacityWhileDragging.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\DecreaseOpacityWhileDragging\obj\Debug\DecreaseOpacityWhileDragging.pdb
