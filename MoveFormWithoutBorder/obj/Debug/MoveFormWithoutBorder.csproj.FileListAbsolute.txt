@@ -1,0 +1,9 @@
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\MoveFormWithoutBorder\bin\Debug\MoveFormWithoutBorder.exe.config
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\MoveFormWithoutBorder\bin\Debug\MoveFormWithoutBorder.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\MoveFormWithoutBorder\bin\Debug\MoveFormWithoutBorder.pdb
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\MoveFormWithoutBorder\obj\Debug\MoveFormWithoutBorder.Form1.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\MoveFormWithoutBorder\obj\Debug\MoveFormWithoutBorder.Properties.Resources.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\MoveFormWithoutBorder\obj\Debug\MoveFormWithoutBorder.csproj.GenerateResource.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\MoveFormWithoutBorder\obj\Debug\MoveFormWithoutBorder.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\MoveFormWithoutBorder\obj\Debug\MoveFormWithoutBorder.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\MoveFormWithoutBorder\obj\Debug\MoveFormWithoutBorder.pdb
