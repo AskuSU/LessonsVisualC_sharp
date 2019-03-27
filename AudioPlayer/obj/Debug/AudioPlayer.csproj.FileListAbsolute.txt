@@ -1,0 +1,10 @@
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\AudioPlayer\bin\Debug\AudioPlayer.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\AudioPlayer\bin\Debug\AudioPlayer.pdb
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\AudioPlayer\obj\Debug\AudioPlayer.csprojAssemblyReference.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\AudioPlayer\obj\Debug\AudioPlayer.Form1.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\AudioPlayer\obj\Debug\AudioPlayer.exe
+C:\Users\Zahar\source\repos\LessonsVisualC_sharp\AudioPlayer\obj\Debug\AudioPlayer.pdb
