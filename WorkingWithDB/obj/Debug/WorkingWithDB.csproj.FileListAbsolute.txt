@@ -1,0 +1,12 @@
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithDB\bin\Debug\Database.mdf
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithDB\bin\Debug\Database_log.ldf
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithDB\bin\Debug\WorkingWithDB.exe.config
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithDB\bin\Debug\WorkingWithDB.exe
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithDB\bin\Debug\WorkingWithDB.pdb
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithDB\obj\Debug\WorkingWithDB.csprojAssemblyReference.cache
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithDB\obj\Debug\WorkingWithDB.Form1.resources
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithDB\obj\Debug\WorkingWithDB.Properties.Resources.resources
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithDB\obj\Debug\WorkingWithDB.csproj.GenerateResource.cache
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithDB\obj\Debug\WorkingWithDB.csproj.CoreCompileInputs.cache
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithDB\obj\Debug\WorkingWithDB.exe
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithDB\obj\Debug\WorkingWithDB.pdb

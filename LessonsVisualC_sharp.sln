@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveFormWithoutBorder", "Mo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioPlayer", "AudioPlayer\AudioPlayer.csproj", "{ABA83D82-F45E-478C-A101-30FBCB8FC191}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithDB", "WorkingWithDB\WorkingWithDB.csproj", "{AF5B4BCA-8321-4F46-8A0A-A66EB610BCBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -221,6 +223,14 @@ Global
 		{ABA83D82-F45E-478C-A101-30FBCB8FC191}.Release|Any CPU.Build.0 = Release|Any CPU
 		{ABA83D82-F45E-478C-A101-30FBCB8FC191}.Release|x86.ActiveCfg = Release|Any CPU
 		{ABA83D82-F45E-478C-A101-30FBCB8FC191}.Release|x86.Build.0 = Release|Any CPU
+		{AF5B4BCA-8321-4F46-8A0A-A66EB610BCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF5B4BCA-8321-4F46-8A0A-A66EB610BCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF5B4BCA-8321-4F46-8A0A-A66EB610BCBF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AF5B4BCA-8321-4F46-8A0A-A66EB610BCBF}.Debug|x86.Build.0 = Debug|Any CPU
+		{AF5B4BCA-8321-4F46-8A0A-A66EB610BCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF5B4BCA-8321-4F46-8A0A-A66EB610BCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF5B4BCA-8321-4F46-8A0A-A66EB610BCBF}.Release|x86.ActiveCfg = Release|Any CPU
+		{AF5B4BCA-8321-4F46-8A0A-A66EB610BCBF}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
