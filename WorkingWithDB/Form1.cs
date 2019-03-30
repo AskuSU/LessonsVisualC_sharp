@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -48,7 +49,13 @@ namespace WorkingWithDB
 
         private async void Form1_Load(object sender, EventArgs e)
         {
-            string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithDB\Database.mdf;Integrated Security=True";
+            string workingDirectory = Environment.CurrentDirectory;
+
+            string LocalPath = Directory.GetParent(workingDirectory).Parent.FullName;
+
+            //MessageBox.Show(workingDirectory, "Путь", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+
+            string connectionString = $@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename={LocalPath}\Database.mdf;Integrated Security=True";
 
             sqlConnection = new SqlConnection(connectionString);
 
@@ -98,6 +105,52 @@ namespace WorkingWithDB
             listBox1.Items.Clear();
 
             UpdateListBox();
+        }
+
+        private async void button2_Click(object sender, EventArgs e)
+        {
+            if (label8.Visible)
+                label8.Visible = false;
+
+            if (!string.IsNullOrEmpty(textBox5.Text) && !string.IsNullOrWhiteSpace(textBox5.Text) &&
+                !string.IsNullOrEmpty(textBox3.Text) && !string.IsNullOrWhiteSpace(textBox3.Text) &&
+                !string.IsNullOrEmpty(textBox4.Text) && !string.IsNullOrWhiteSpace(textBox4.Text))
+            {
+                SqlCommand command = new SqlCommand("UPDATE [Products] SET [Name]=@Name, [Price]=@Price WHERE [Id]=@Id", sqlConnection);
+
+                command.Parameters.AddWithValue("Id", textBox5.Text);
+
+                command.Parameters.AddWithValue("Name", textBox4.Text);
+
+                command.Parameters.AddWithValue("Price", textBox3.Text);
+
+                await command.ExecuteNonQueryAsync();
+            }
+            else
+            {
+                label8.Visible = true;
+                label8.Text = "Поля 'ID', 'Имя' и 'Цена' должны быть заполнены!";
+            }
+        }
+
+        private async void button3_Click(object sender, EventArgs e)
+        {
+            if (label9.Visible)
+                label9.Visible = false;
+
+            if (!string.IsNullOrEmpty(textBox6.Text) && !string.IsNullOrWhiteSpace(textBox6.Text))
+            {
+                SqlCommand command = new SqlCommand("DELETE FROM [Products] WHERE [Id]=@Id", sqlConnection);
+
+                command.Parameters.AddWithValue("Id", textBox6.Text);
+
+                await command.ExecuteNonQueryAsync();
+            }
+            else
+            {
+                label9.Visible = true;
+                label9.Text = "Поле 'ID' должен быть заполнен!";
+            }
         }
     }
 }
