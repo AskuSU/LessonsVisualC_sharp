@@ -25,7 +25,8 @@ namespace WorkingWithRemoteDB
 
         private async void Form1_Load(object sender, EventArgs e)
         {
-            string connectionString = ConfigurationManager.ConnectionStrings["StudentCS"].ConnectionString;
+            string connectionString = ConfigurationManager.ConnectionStrings["StudentsCS"].ConnectionString;
+            //string connectionString = @"Server = localhost\SQLEXPRESS; Database = TestDB; Trusted_Connection = True;";
 
             sqlConnection = new SqlConnection(connectionString);
 

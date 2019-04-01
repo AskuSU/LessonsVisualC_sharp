@@ -8,3 +8,13 @@ C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WorkingWithRemoteDB\obj\Debug\W
 C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WorkingWithRemoteDB\obj\Debug\WorkingWithRemoteDB.csproj.CoreCompileInputs.cache
 C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WorkingWithRemoteDB\obj\Debug\WorkingWithRemoteDB.exe
 C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WorkingWithRemoteDB\obj\Debug\WorkingWithRemoteDB.pdb
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithRemoteDB\bin\Debug\WorkingWithRemoteDB.exe.config
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithRemoteDB\bin\Debug\WorkingWithRemoteDB.exe
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithRemoteDB\bin\Debug\WorkingWithRemoteDB.pdb
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithRemoteDB\obj\Debug\WorkingWithRemoteDB.csprojAssemblyReference.cache
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithRemoteDB\obj\Debug\WorkingWithRemoteDB.Form1.resources
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithRemoteDB\obj\Debug\WorkingWithRemoteDB.Properties.Resources.resources
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithRemoteDB\obj\Debug\WorkingWithRemoteDB.csproj.GenerateResource.cache
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithRemoteDB\obj\Debug\WorkingWithRemoteDB.csproj.CoreCompileInputs.cache
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithRemoteDB\obj\Debug\WorkingWithRemoteDB.exe
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithRemoteDB\obj\Debug\WorkingWithRemoteDB.pdb
