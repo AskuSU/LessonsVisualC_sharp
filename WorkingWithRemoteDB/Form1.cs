@@ -89,5 +89,33 @@ namespace WorkingWithRemoteDB
                 }
             }
         }
+
+        private async void toolStripButton5_Click(object sender, EventArgs e)
+        {
+            listView1.Items.Clear();
+
+            await LoadStudentsAsync();
+        }
+
+        private void toolStripButton1_Click(object sender, EventArgs e) //INSERT
+        {
+            INSERT insert = new INSERT(sqlConnection);
+
+            insert.Show();
+        }
+
+        private void toolStripButton2_Click(object sender, EventArgs e)
+        {
+            if (listView1.SelectedItems.Count > 0)
+            {
+                UPDATE update = new UPDATE(sqlConnection, Convert.ToInt32(listView1.SelectedItems[0].SubItems[0].Text));
+
+                update.Show();
+            }
+            else
+            {
+                MessageBox.Show("Ни одна строка не была выделена!", "Ошибка!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
     }
 }
