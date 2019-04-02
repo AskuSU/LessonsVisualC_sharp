@@ -126,5 +126,43 @@ namespace WorkingWithRemoteDB
                 MessageBox.Show("Ни одна строка не была выделена!", "Ошибка!", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private async void toolStripButton3_Click(object sender, EventArgs e)
+        {
+            if (listView1.SelectedItems.Count > 0)
+            {
+
+                DialogResult res = MessageBox.Show("Вы действительно хотите удалить эту строку?", "Удаление строки", MessageBoxButtons.OKCancel, MessageBoxIcon.Exclamation);
+
+                switch (res)
+                {
+                    case DialogResult.OK:
+
+                        SqlCommand deleteStudentCommand = new SqlCommand("DELETE FROM [Students] WHERE [Id]=@Id", sqlConnection);
+
+                        deleteStudentCommand.Parameters.AddWithValue("Id", Convert.ToInt32(listView1.SelectedItems[0].SubItems[0].Text));
+
+                        try
+                        {
+                            await deleteStudentCommand.ExecuteNonQueryAsync();
+                        }
+                        catch (Exception ex)
+                        {
+
+                            MessageBox.Show(ex.Message, "Ошибка!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        }
+
+                        listView1.Items.Clear();
+
+                        await LoadStudentsAsync();
+
+                        break;
+                }
+            }
+            else
+            {
+                MessageBox.Show("Ни одна строка не была выделена!", "Ошибка!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
     }
 }
