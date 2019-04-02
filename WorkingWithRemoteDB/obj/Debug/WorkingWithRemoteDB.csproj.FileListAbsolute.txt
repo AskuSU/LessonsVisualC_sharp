@@ -20,3 +20,5 @@ C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithRemoteDB\
 C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithRemoteDB\obj\Debug\WorkingWithRemoteDB.pdb
 C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WorkingWithRemoteDB\obj\Debug\WorkingWithRemoteDB.INSERT.resources
 C:\Users\Zahar\source\repos\LessonsVisualC_sharp\WorkingWithRemoteDB\obj\Debug\WorkingWithRemoteDB.UPDATE.resources
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithRemoteDB\obj\Debug\WorkingWithRemoteDB.INSERT.resources
+C:\Users\АндрейACER\source\repos\LessonsVisualC_sharp\WorkingWithRemoteDB\obj\Debug\WorkingWithRemoteDB.UPDATE.resources

@@ -25,25 +25,34 @@ namespace WorkingWithRemoteDB
 
         private async void Form1_Load(object sender, EventArgs e)
         {
-            string connectionString = ConfigurationManager.ConnectionStrings["StudentsCS"].ConnectionString;
-            //string connectionString = @"Server = localhost\SQLEXPRESS; Database = TestDB; Trusted_Connection = True;";
+            try
+            {
 
-            sqlConnection = new SqlConnection(connectionString);
+                string connectionString = ConfigurationManager.ConnectionStrings["StudentsCS"].ConnectionString;
+                //string connectionString = @"Server = localhost\SQLEXPRESS; Database = TestDB; Trusted_Connection = True;";
 
-            await sqlConnection.OpenAsync();
+                sqlConnection = new SqlConnection(connectionString);
 
-            listView1.GridLines = true;
+                await sqlConnection.OpenAsync();
 
-            listView1.FullRowSelect = true;
+                listView1.GridLines = true;
 
-            listView1.View = View.Details;
+                listView1.FullRowSelect = true;
 
-            listView1.Columns.Add("Id");
-            listView1.Columns.Add("Name");
-            listView1.Columns.Add("Surname");
-            listView1.Columns.Add("Birthday");
+                listView1.View = View.Details;
 
-            await LoadStudentsAsync();
+                listView1.Columns.Add("Id");
+                listView1.Columns.Add("Name");
+                listView1.Columns.Add("Surname");
+                listView1.Columns.Add("Birthday");
+
+                await LoadStudentsAsync();
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show(ex.Message, "Ошибка!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
 
         }
 
